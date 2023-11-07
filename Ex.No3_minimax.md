@@ -40,7 +40,7 @@ print("The optimal value is : ", end = "")
 print(minimax(0, 0, True, scores, treeDepth))
 ```
 ### Output:
-![image](https://github.com/nithish143257/AI_Lab_2023-24/assets/113762839/08b00b76-4a81-443a-bf05-b5c144d5c48f)
+https://user-images.githubusercontent.com/113762839/276075181-08b00b76-4a81-443a-bf05-b5c144d5c48f.png
 
 
 
